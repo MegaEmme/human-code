@@ -32,7 +32,7 @@
     - preferirei non usarla 
 - snack extra DA EVITARE
     - eventualmente da pagare con carta di credito
-
+---
 ### Soluzione:
 
 - mi preparo per uscire
@@ -144,4 +144,20 @@
 
 ### Punto di partenza:
 
+- sono in ufficio
+- ho cercato a lungo una pratica
+- ho trovato la pratica
+- mi chiedo come fare a trovare le pratiche più in fretta
+    - devo sapere da subito dove andare a cercare le pratiche
+- ho un'idea
+    - creare archivio digitale per le pratiche
+- per creare un archivio digitale ho bisogno di
+    - tutte le pratiche
+        - pochi fogli
+    - uno scanner
+        - senza fronte-retro
+            - dovrò girare i fogli a mano
+    - un computer
+    - un software di archiviazione
+---
 ### Soluzione:
