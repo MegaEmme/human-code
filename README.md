@@ -144,7 +144,9 @@
 
 ### Punto di partenza:
 
+- siamo nel 2025
 - sono in ufficio
+- in ufficio si usano ancora pratiche cartacee
 - ho cercato a lungo una pratica
 - ho trovato la pratica
 - mi chiedo come fare a trovare le pratiche più in fretta
@@ -153,11 +155,22 @@
     - creare archivio digitale per le pratiche
 - per creare un archivio digitale ho bisogno di
     - tutte le pratiche
-        - pochi fogli
+        - sono pochi fogli
     - uno scanner
-        - senza fronte-retro
-            - dovrò girare i fogli a mano
+        - non dotato di modalità fronte-retro
+            - dovrò dunque girare i fogli a mano
     - un computer
     - un software di archiviazione
 ---
 ### Soluzione:
+
+- sono alla mia scrivania 
+- ho la pratica in mano
+- accendo il computer
+- reperisco un sofware di archiviazione digitale
+    - lo installo
+    - ne testo il funzionamento
+    - metto in stanby
+- mi alzo dalla scrivania
+- vado a prendere le pratiche cartacee
+- 
