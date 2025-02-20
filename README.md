@@ -36,9 +36,15 @@
 ### *Soluzione:*
 
 - mi preparo per uscire
-    - mi vesto
     - mi lavo
-- saluto Ricky (lo so non c'entra niente, ma amo gli animali!)
+    - mi vesto
+        - guardo fuori
+            - SE piove 
+                - metto la maglietta
+                - metto l'impermeabile
+            - ALTRIMENTI
+                - metto la maglietta
+- saluto Ricky 
 - esco di casa
 - mi dirigo al supermercato
     - SE ho una macchina:
@@ -166,11 +172,57 @@
 
 - sono alla mia scrivania 
 - ho la pratica in mano
+- mi è appena venuta l'idea
+- mi alzo dalla scrivania
+- vado a prendere le pratiche cartacee
+- torno alla scrivania
+- mi siedo
+- ordino cronologicamente le pratiche
+    - SE manca qualche pratica
+        - mi creo una nota su cui segnare quali siano 
 - accendo il computer
 - reperisco un sofware di archiviazione digitale
     - lo installo
     - ne testo il funzionamento
-    - metto in stanby
+        - SE funziona bene
+            - procedo
+        - ALTRIMENTI
+            - trovo un software migliore
+    - ripeto finche non sono soddisfatto
+- creo una cartella per contenere i file delle scansioni
+- inizio a scansionare
+    - parto dalla pratica più vecchia
+    - inserisco il foglio nello scanner
+    - avvio lo scanner
+    - SE la pratica ha un fronte-retro
+        - acquisisco il fronte
+        - salvo il file nella cartella
+        - apro lo scanner 
+        - giro il foglio 
+        - chiuso lo scanner
+        - acquisisco il retro
+        - salvo il file nella cartella
+    - ALTRIMENTI 
+        - acquisisco il fronte
+        - salvo il file nella cartella
+- ripeto il processo finchè le pratiche non sono esaurite
+- spengo lo scanner
+- sul computer trasferisco i file dalla cartella al software
+- salvo tutto il lavoro
+- eseguo un ulteriore test per verificare il risultato
+    - SE sono soddisfatto
+        - chiudo il software
+    - ALTRIMENTI
+        - cerco di capire qual'è il problema
+        - risolvo il problema 
+        - chiudo il sofware
+- spengo il computer
 - mi alzo dalla scrivania
-- vado a prendere le pratiche cartacee
-- 
+- vado a rimettere a posto le pratiche cartacee
+- SE l'orario lavoro è terminato 
+    - vado a casa
+- ALTRIMENTI
+    - torno alle mie mansioni 
+
+
+
