@@ -1,6 +1,6 @@
-# Esercizio: Human Code
+# **Esercizio: Human Code**
 
-### Consegna
+### *Consegna*
 
 - Produrre un file README.md per risolvere i seguenti problemi:
 
@@ -15,9 +15,9 @@
 
 ---
 
-## A) La spesa
+## **A) La spesa**
 
-### Punto di partenza:
+### *Punto di partenza:*
 
 - sono a casa
 - il frigo è quasi vuoto
@@ -33,7 +33,7 @@
 - snack extra DA EVITARE
     - eventualmente da pagare con carta di credito
 ---
-### Soluzione:
+### *Soluzione:*
 
 - mi preparo per uscire
     - mi vesto
@@ -140,9 +140,9 @@
     - vado a piedi
 ---
 
-## B) La scansione
+## **B) La scansione**
 
-### Punto di partenza:
+### *Punto di partenza:*
 
 - siamo nel 2025
 - sono in ufficio
@@ -162,7 +162,7 @@
     - un computer
     - un software di archiviazione
 ---
-### Soluzione:
+### *Soluzione:*
 
 - sono alla mia scrivania 
 - ho la pratica in mano
